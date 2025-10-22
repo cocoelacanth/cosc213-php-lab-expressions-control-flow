@@ -31,5 +31,5 @@ echo "Result: $label\n";
 
 // 7) String interpolation with non-string
 $insert = 17;
-echo "This is some text with $insert added to it.";
+echo "This is some text with $insert added to it.\n";
 ?>
