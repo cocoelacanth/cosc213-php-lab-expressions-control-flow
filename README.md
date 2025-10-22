@@ -1,0 +1,2 @@
+## Part 1 - Expressions Clinic
+`===` should be preferred over `==` when strict equality is required. `==` performs type conversions whenever possible to make the compared values the same type, while `===` does not. For example, `'123' == 123` returns `true`, while `'123' === 123` returns `false.`
