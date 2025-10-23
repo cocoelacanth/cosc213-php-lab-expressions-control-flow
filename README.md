@@ -16,7 +16,7 @@
 4. Go to localhost:8000/path/to/page.php to view any of the PHP pages.
 
 ## Sample runs
-#### /01_expressions.php?score=40
+#### /lab4/01_expressions.php?score=40
 ```
 sum=13 prod=30 a=15
 14
@@ -30,7 +30,7 @@ Result: Fail/NoScore
 This is some text with 17 added to it.
 ```
 
-#### /01_expressions.php?score=70
+#### /lab4/01_expressions.php?score=70
 ```
 sum=13 prod=30 a=15
 14
@@ -44,14 +44,14 @@ Result: Pass
 This is some text with 17 added to it.
 ```
 
-#### /02_branching.php?role=editor&code=401
+#### /lab4/02_branching.php?role=editor&code=401
 ```
 Welcome, editor
 Back to work.
 Not Authorized
 ```
 
-#### /02_branching.php?lang=fr&day=Sat&code=400
+#### /lab4/02_branching.php?lang=fr&day=Sat&code=400
 ```
 Bienvenue, admin
 Bon week-end !
